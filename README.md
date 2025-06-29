@@ -35,11 +35,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Castolo05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Castolo05&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castolo05&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -51,14 +51,10 @@
   <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="250" alt="Fun GIF">
 </div>
 
-- 🎮 Amante de **PES 06** y todos sus mods ⚽🎮  
+- 🎮 Amante de **PES 06** y el modding ⚽🎮  
 - 🔥 Siempre aprendiendo cosas nuevas  
 - 💻 Amante de los proyectos tecnológicos, aunque todavía no tenga uno destacado (pero ya vendrán 🚀)
-
 ---
-
-## 🎮 Bonus: Mood gamer mientras programo
-
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Gaming GIF">
 </p>
