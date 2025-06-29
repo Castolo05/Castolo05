@@ -1,7 +1,5 @@
 <h1 align="center">👾 ¡Bienvenido a mi perfil! Soy Fausto 🚀</h1>
 
----
-
 ## 🎯 Sobre mí
 
 <div align="center">
