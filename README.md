@@ -1,9 +1,5 @@
 <h1 align="center">👾 ¡Bienvenido a mi perfil! Soy Fausto 🚀</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Estudiante+de+Gestión+Tecnológica+%F0%9F%93%96;Apasionado+por+la+Tecnología+%F0%9F%9A%80+y+la+Programación+%F0%9F%92%BB;Fan+del+PES+06+%F0%9F%8E%AE+con+mods+%F0%9F%8E%A8" alt="Typing SVG">
-</p>
-
 ---
 
 ## 🎯 Sobre mí
